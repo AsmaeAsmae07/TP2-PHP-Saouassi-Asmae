@@ -1,4 +1,4 @@
-TP02 - Programmation Web
+TP - [Title of the Practical Work]
 
 • Nom : Saouassi
 • Prénom : Asmae
